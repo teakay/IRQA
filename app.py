@@ -2,7 +2,6 @@
 
 from flask import Flask, request, jsonify, render_template
 from config import Config
-from wtforms import Form, TextField, StringField
 
 app = Flask(__name__)
 app.config.from_object(Config)
