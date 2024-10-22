@@ -11,6 +11,6 @@ The system contain four modules :
    - Using BM25 scoring to get most relevant paragraph based on query
 
 4. Answer Extraction Module.
-  - Fine-tune BERT model to do answer span extraction
+   - Fine-tune BERT model to do answer span extraction
 
 ![IR-QA-system](https://github.com/user-attachments/assets/42073d2a-6e9f-48fb-95fd-5dd8d953b6b7)
